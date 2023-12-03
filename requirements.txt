@@ -2,3 +2,4 @@ llama-index
 streamlit
 transformers
 torch
+langchain
